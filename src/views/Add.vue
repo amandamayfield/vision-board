@@ -1,18 +1,17 @@
 <template>
-  <div class="home">
-    <h1>Trip Wish List</h1>
-    <div></div>
+  <div class="add">
+    <h1>Add a trip here</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: "Add",
 };
 </script>
 
 <style lang="scss">
-.home {
+.add {
   padding: 20px;
 }
 </style>
